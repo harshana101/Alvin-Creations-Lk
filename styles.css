@@ -53,7 +53,7 @@ p {
     width: 150px;
 }
 
-.social-links .whatsapp:hover, .instagram:hover, .tiktok:hover, youtube:hover {
+.social-links .whatsapp:hover, .instagram:hover, .tiktok:hover, .youtube:hover {
     background: #534741;
     border: 2px solid #534741;
     color: #c69c6d;
